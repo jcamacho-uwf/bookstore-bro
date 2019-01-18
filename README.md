@@ -9,3 +9,6 @@ By highlighting a course number on OPAC and pressing / (forward slash), Bookstor
 
 ### Page Omission
 Bookstore Bro automatically skips the "Click here to proceed to the bookstore" page.
+
+## Installation
+To install Bookstore Bro, download all of these files (be sure to uncompress them if you downloaded them as a ZIP). Next, enable Chrome's Developer Mode, navigate to the Extensions menu, and select the Bookstore Bro folder after clicking "load unpackaed"
